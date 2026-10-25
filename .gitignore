@@ -1,0 +1,73 @@
+# Python environment and generated files
+.venv311/
+__pycache__/
+*.py[cod]
+
+# Audit backups
+*.before-*
+project_audit_bundle.zip
+
+# Historical benchmark files
+performance_results_all_prior_runs.csv
+performance_results_before_barrier.csv
+
+# Additional Python environment
+.venv/
+
+# Generated local authentication log
+security.log
+
+# Runtime control secrets must never be published
+*.key
+*.secret
+.env
+.env.*
+
+# Additional local environments and editor/OS scratch files
+venv/
+env/
+.python-version
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.idea/
+.vscode/
+.DS_Store
+*~
+*.swp
+*.swo
+*.bak
+*.orig
+*.rej
+
+# Generated logs, captures, evidence and archives (keep source and original CSV)
+*.log
+*.pid
+*.pcap
+*.pcapng
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+backups/
+outputs/
+work/
+evidence/
+diagnostics/
+tmp/
+*.private
+
+# Private credential/key containers, including extensionless common names
+*.pem
+*.p12
+*.pfx
+*.keystore
+id_rsa
+id_ed25519
+.ssh/
+secrets/
+credentials/
+credentials.json
+token.json

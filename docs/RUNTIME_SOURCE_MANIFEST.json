@@ -1,0 +1,173 @@
+{
+  "candidate_zip_sha256": "dd8ce0a5fa8f67a0f7e4fef6d1a06a27e52bf443be1b9f25454225096df3ca59",
+  "baseline_release_sha256": "15ced75227c1bda2c6a9a4ef1b895062c6ada5111215ad421572f3ea774d57b8",
+  "current_csv_sha256": "34d7243ca1716fd1f554a658685a091fd24a2257327bcfb241410952f1fc83be",
+  "files": [
+    {
+      "path": "audit_live.py",
+      "size": 14752,
+      "sha256": "c02a85d313b337fc95ce57b8a359a0d8cbbef331c851bcd1696229fd2aa8b09a"
+    },
+    {
+      "path": "auth_server.py",
+      "size": 11654,
+      "sha256": "e1ccffc0f950c9efc32343d4d48eb9b046e8a4d743b0231b409e50c2648999e9"
+    },
+    {
+      "path": "client.py",
+      "size": 3461,
+      "sha256": "19f2389b51d43b98feba6c21b735f0c47b07210c4cc82e71021a1d73c889aa2f"
+    },
+    {
+      "path": "control_security.py",
+      "size": 4101,
+      "sha256": "2876483e2ec1ac38657b039a508131011685e3696ba13e4b1c25088c94de774d"
+    },
+    {
+      "path": "controller.py",
+      "size": 15783,
+      "sha256": "f6d2145a3a424b4b0f39f2719a29d0823b2285b697bd39a6342cba14aea22810"
+    },
+    {
+      "path": "controller_client.py",
+      "size": 2873,
+      "sha256": "bc00f3c39d9526ee4acc1d26df58116824e9e69d3205bd166793d2d2c43b107f"
+    },
+    {
+      "path": "master_live_checks.py",
+      "size": 8378,
+      "sha256": "9d9ec9f1a514b17145a22c934d6b984ce0f25db70b26b59ecb7408f56fcdfe4d"
+    },
+    {
+      "path": "master_live_probe.py",
+      "size": 8780,
+      "sha256": "8f7433a1739f6a2dd85402309ed1e6bbc6961c6d856b034b822e57cbb85feca0"
+    },
+    {
+      "path": "net_protocol.py",
+      "size": 2783,
+      "sha256": "7efc5fdbceda0b30d15ff78703fe8b4b36637b51f113a794f69307ca8cb15a07"
+    },
+    {
+      "path": "performance_test.py",
+      "size": 6809,
+      "sha256": "f9d1708f2afc85b3adb8bed0bad455f97ee1cfca698ba1d3b36c7f474a2a7302"
+    },
+    {
+      "path": "protected_service.py",
+      "size": 1219,
+      "sha256": "1f9ba8b0cb43b0cd303afff4f9b270fe1b2d9c70edcd35799b0eb9864dcdfbce"
+    },
+    {
+      "path": "security_live_checks.py",
+      "size": 4442,
+      "sha256": "71e06d379586a1fb176290e229b2f5a0604fb6d6b458ae5b7bef0474fc9cd9c8"
+    },
+    {
+      "path": "security_probe.py",
+      "size": 5347,
+      "sha256": "53f840be9d59363d1fe0cecec81aeb09bceffc0ed294f9af6b79c6d1daa3f4ec"
+    },
+    {
+      "path": "summarize_performance.py",
+      "size": 5717,
+      "sha256": "50f27364c603c751c25fd8b44566cf179ed7fc7a23a8e346f0947fff61d34892"
+    },
+    {
+      "path": "test_audit.py",
+      "size": 7499,
+      "sha256": "7065168b075e483a62d4adb1e6401906979499a9fbb72cc7298a2d32476e5b0e"
+    },
+    {
+      "path": "test_auth.py",
+      "size": 2494,
+      "sha256": "479c37a32e7d81d6b82ebdec2b21551c54cb675a29507e6b1276a2590ba3688b"
+    },
+    {
+      "path": "test_concurrency.py",
+      "size": 2235,
+      "sha256": "a15c73ffaeafb022852d21ed648a1f61590568ce876935b7a5def5940689c7dc"
+    },
+    {
+      "path": "test_control_security.py",
+      "size": 10269,
+      "sha256": "83d07caa2e3d06dd5952787a134a0327696b45da6d2d214976891d6341ff702c"
+    },
+    {
+      "path": "test_controller_audit.py",
+      "size": 3384,
+      "sha256": "d1be7dd658def3dc4cec33db304005dc778062aae343ad8cdc4f527af7707560"
+    },
+    {
+      "path": "test_controller_client.py",
+      "size": 986,
+      "sha256": "d82a8a40fe4d671cdc6109f67c81c3579c3ebdad96961ae613ad278f386e9906"
+    },
+    {
+      "path": "test_controller_failure.py",
+      "size": 1437,
+      "sha256": "972a66d5a960bf8634771503ee039ccd98e48b851eae6334f34301f87f159bcd"
+    },
+    {
+      "path": "test_controller_wire.py",
+      "size": 9272,
+      "sha256": "2dda86edcc5a74e3eea3e510a5773dd2f136f24485c4dffca142fc082d9d6044"
+    },
+    {
+      "path": "test_expiry.py",
+      "size": 1265,
+      "sha256": "c3cad4a965d3d34ae302af912efbb200e7275b5eec6d987b92364a07ea1361c4"
+    },
+    {
+      "path": "test_lockout_network.py",
+      "size": 2146,
+      "sha256": "b4b16021424481aa2ad7557d57f683fdc97f1f6d0fe7f3e81239e83f02e74914"
+    },
+    {
+      "path": "test_master_verification.py",
+      "size": 17810,
+      "sha256": "911c7d3ae3362c109ee955841060dd18b920faeb98e26124e8a1d7423c407327"
+    },
+    {
+      "path": "test_network.py",
+      "size": 1104,
+      "sha256": "73f635e959930b79c9f3400a11c6bd89872db8845d706fe5751829c63d9af85d"
+    },
+    {
+      "path": "test_performance_summary.py",
+      "size": 4776,
+      "sha256": "ee9b6338466312a79e4a45116eb06ffd2250915f93019e1349e8b2a13cf91f07"
+    },
+    {
+      "path": "test_real_expiry.py",
+      "size": 2163,
+      "sha256": "236f6aaeaeb6f723cc13834c2e19a206f9e5fd7fd1fda3161725f1932447608c"
+    },
+    {
+      "path": "test_response_protocol.py",
+      "size": 5774,
+      "sha256": "8e551d386f5c160a2129a8dca2c4ed51fdbe36a6840fb0cc4021486190599d9f"
+    },
+    {
+      "path": "test_security.py",
+      "size": 3170,
+      "sha256": "0be425e8cffc5ef2cbaf04868cd8da105b2852b626d94fa9e1c2e7a1d0a594db"
+    },
+    {
+      "path": "test_socket_audit.py",
+      "size": 3298,
+      "sha256": "1351247ff6c5f09a3d1ed454cb4d34e04fa358e5206515e782371fcae2c47c26"
+    },
+    {
+      "path": "topology.py",
+      "size": 3693,
+      "sha256": "8e4f4a91dcc46ad18bc74c4f51ac8b5eac75b0d6925605d808c3a58eafb1f994"
+    },
+    {
+      "path": "requirements.txt",
+      "size": 14,
+      "sha256": "ff00874a9f27916318ed6607126b6de2159d49892f837d1ae11d4bdf899d9a27"
+    }
+  ],
+  "scope": "Measured and isolated-tested Python/requirements identity. Documentation added after measurements; no runtime code changed after the run."
+}
